@@ -95,7 +95,7 @@ namespace DesktopAutomateConsoleApp
             }
 
             return true;
-        }
+        } 
 
         public bool PressButton(string expression)
         {
