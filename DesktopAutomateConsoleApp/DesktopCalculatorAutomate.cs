@@ -28,7 +28,7 @@ namespace DesktopAutomateConsoleApp
         public event ErrorOcurredHandler OnError;
         #endregion
 
-        #region Methods for automate
+        #region Automate methods
         public bool OpenApplication(string path)
         {
             buttons = new Dictionary<char, string>
